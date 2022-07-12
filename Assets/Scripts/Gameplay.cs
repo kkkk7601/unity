@@ -25,7 +25,7 @@ public class Gameplay : MonoBehaviour
                 {
                     hit.collider.gameObject.SetActive(false);
                 }
-                //aaa
+                //aaaaaaa
             }
 
         }
